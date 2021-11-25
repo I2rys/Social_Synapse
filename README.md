@@ -1,10 +1,10 @@
 <div align="center">
 
-# Discord-AIO
+# Social Synapse
   
 <p align="center">
-  <a href="https://discord.gg/qjrDprutvg">
-    <img src="https://user-images.githubusercontent.com/45857590/138568746-1a5578fe-f51b-4114-bcf2-e374535f8488.png" width="240" height="240" />
+  <a href="https://discord.gg/kNFntm5eQy">
+    <img src="https://media.discordapp.net/attachments/893433615373987840/913291198985277440/Untitled.png" width="240" height="240" />
   </a>
   
   [![developer](https://img.shields.io/badge/Developer-Nyxon-520702.svg?style=flat)](https://github.com/Nyxonn)
