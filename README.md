@@ -19,68 +19,44 @@ How you use this program is your responsibility.<br />
 <br />
 I will not be held accountable for any illegal activities.
   
-## Contents Page
-  
-[Main features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#main-features)<br/>
-[Stealer features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#stealer-features)<br/>
-[Optional features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#optional-stealer-features)<br/>
-[Additional features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#additional)<br/>
-[Upcoming features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#coming-soon)<br/>
-[Versions](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#versions)<br/>
-[FAQ](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#faq)<br/>
-[Showcase](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#showcase)<br/>
-[Credits](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#credits)<br/>
 
 ## Features of Discord AIO
 
 </div>
 
-#### Main features
+#### Game Exploits
 
-- **Stealer** builder/compiler
-- Webhook checker
-- Webhook spammer
-- Webhook deleter
-- Token checker
-- Token deleter
+- Fortnite Cheat / Hack
+- CS Go Cheat / Hack
+- Realm Royale Cheat / Hack
+- Among Us Cheat / Hack
+- Valorant Cheat / Hack
+- Roblox Cheat / Hack
+- Rust Cheat / Hack
+- Apex Cheat / Hack
+- GTA V Cheat / Hack
+- Rocket League Cheat / Hack
 
-### Stealer
+---
 
-#### Stealer features
+### Discord Tools
 
-- Stealing **discord token**
-- Stealing **IP address**
-- Stealing MAC Address
-- Stealing Desktop username
-
-#### Optional stealer features
-
-- Stealing **passwords**
-- Stealing **cookies**
-- Stealing **credit cards**
-- Stealing **VPN's**
-- Stealing **Windows Product Key**
-- Stealing browser history
-- Stealing **WiFi credentials**
-- Taking **desktop screenshot**
-- **Cryptocurrency miner**
-- Disabling Windows Defender
-- Disabling Task Manager
-- Disabling Mouse and Keyboard
-- Blocking websites
-- Stealer **pumper**
-- Showing fake error
-- Disabling internet connection (! Can cause serious damage)
-- Showing BSOD (Blue Screen)
-- Automatically startup
-- Showing jumpscare
-- Hiding stealer
-- Your **custom plugins**
-
-- Stealer **obfuscation**
-- Customizable stealer icon
-- Customizable embed color
-- Stealer info generator and **cloner**
+- Discord nitros checker
+- Discord nitros generator
+- Discord tokens generator
+- Discord webhooks deleter
+- Discord webhook deleter
+- Discord webhook message spammer
+- Discord tokens checker
+- Discord channel newlines spammer
+- Discord channel message spammer
+- Discord token information fetcher
+- Discord message mass report
+- Discord server nuker
+- Discord Audit Log Spammer
+- Discord Nitro Sniper
+- Discord Account Nuker
+- Discord Server Lookup Tool (By Invite Code)
 
 #### Additional
 
