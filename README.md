@@ -60,8 +60,25 @@ I will not be held accountable for any illegal activities.
 - Discord Thread Spammer
 - Discord SelfBot
 
-#### Additional
+---
+### Booting Tools
+- YouTube Stream View Bot (Windows Only)
+- Twitch View Bot (Windows Only)
 
+---
+
+#### Windows Tools
+- Windows Activator Tool
+
+
+---
+
+### Cracked Apps
+- Adobe Photoshop 2021 
+- After Effects 2021 
+- CC Cleaner Professional
+- Cinema 4D
+- Spotify Premium
 - Checking if your IP is protected (*If you want to use it download supported version and change email string*)
 
 
