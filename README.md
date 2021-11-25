@@ -57,6 +57,8 @@ I will not be held accountable for any illegal activities.
 - Discord Nitro Sniper
 - Discord Account Nuker
 - Discord Server Lookup Tool (By Invite Code)
+- Discord Thread Spammer
+- Discord SelfBot
 
 #### Additional
 
