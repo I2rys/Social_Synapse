@@ -7,9 +7,9 @@
     <img src="https://media.discordapp.net/attachments/893433615373987840/913291198985277440/Untitled.png" width="240" height="240" />
   </a>
   
-  [![developer](https://img.shields.io/badge/Developer-Social404 & I2rys-520702.svg?style=flat)](https://github.com/Social404)
-  [![discord](https://img.shields.io/badge/Social Synapse-520702.svg?style=flat)](https://discord.gg/kNFntm5eQy)
-  [![download](https://img.shields.io/badge/Click Here-520702.svg?style=flat)](https://www.mediafire.com/file/jt9pbuv0r90cbng/SocialSynapse-x64.zip/file)
+  [![developer](https://img.shields.io/badge/Developer-Social404-I2rys-520702.svg?style=flat)](https://github.com/Social404)
+  [![discord](https://img.shields.io/badge/Social_Synapse-520702.svg?style=flat)](https://discord.gg/kNFntm5eQy)
+  [![download](https://img.shields.io/badge/Click_Here-520702.svg?style=flat)](https://www.mediafire.com/file/jt9pbuv0r90cbng/SocialSynapse-x64.zip/file)
 </p>
 
 ## Disclaimer
