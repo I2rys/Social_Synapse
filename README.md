@@ -18,7 +18,6 @@ This program is for educational purposes only.<br />
 How you use this program is your responsibility.<br />
 <br />
 I will not be held accountable for any illegal activities.
-  
 
 ## Features of Discord AIO
 
@@ -82,6 +81,12 @@ I will not be held accountable for any illegal activities.
 - Checking if your IP is protected (*If you want to use it download supported version and change email string*)
 
 ---
+
+## New tools log
+### 12/7/2021
++ Discord Color Theme Changer
++ Discord users lookup websites
++ Discord hypersquad changer
 
 ## FAQ
 
