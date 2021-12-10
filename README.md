@@ -7,9 +7,12 @@
     <img src="https://media.discordapp.net/attachments/893433615373987840/913291198985277440/Untitled.png" width="240" height="240" />
   </a>
   
-  [![developer](https://img.shields.io/badge/Developer-Social404_I2rys-520702.svg?style=flat)](https://github.com/Social404)
+  [![developer](https://img.shields.io/badge/Developer-Social404-520702.svg?style=flat)](https://github.com/Social404)
+  [![developer](https://img.shields.io/badge/Developer-I2rys-520702.svg?style=flat)](https://github.com/I2rys)
   [![discord](https://img.shields.io/badge/Discord-Social_Synapse-520702.svg?style=flat)](https://discord.gg/kNFntm5eQy)
   [![download](https://img.shields.io/badge/Download-Click_Here-520702.svg?style=flat)](https://www.mediafire.com/file/jt9pbuv0r90cbng/SocialSynapse-x64.zip/file)
+  [![organization](https://img.shields.io/badge/Organization-SocialSynapse-520702.svg?style=flat)](https://github.com/Social-Synapse)
+  [![website](https://img.shields.io/badge/Website-SocialSynapse.xyz-520702.svg?style=flat)](https://SocialSynapse.xyz)
 </p>
 
 ## Disclaimer
@@ -18,7 +21,6 @@ This program is for educational purposes only.<br />
 How you use this program is your responsibility.<br />
 <br />
 I will not be held accountable for any illegal activities.
-  
 
 ## Features of Discord AIO
 
@@ -82,6 +84,12 @@ I will not be held accountable for any illegal activities.
 - Checking if your IP is protected (*If you want to use it download supported version and change email string*)
 
 ---
+
+## New tools log
+### 12/7/2021
++ Discord Color Theme Changer
++ Discord users lookup websites
++ Discord hypersquad changer
 
 ## FAQ
 
